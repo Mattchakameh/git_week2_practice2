@@ -1,0 +1,22 @@
+*   60eeb54 (HEAD -> main) Merge feature/project-structure into main
+|\  
+| * 77f3995 (feature/project-structure) Add standard project structure
+|/  
+* df6e5f1 (origin/main, origin/HEAD) Initial commit
+
+===== REPOSITORY STRUCTURE =====
+
+.
+./mehdi_chakameh_git_activity.txt
+./tests
+./tests/__init__.py
+./docs
+./docs/README.md
+./README.md
+./.gitignore
+./data
+./data/.gitkeep
+./notebooks
+./notebooks/example.ipynb
+./src
+./src/__init__.py
